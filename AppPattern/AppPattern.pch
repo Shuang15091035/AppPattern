@@ -1,0 +1,24 @@
+
+//
+//  AppPattern.pch
+//  AppPattern
+//
+//  Created by admin on 2017/9/22.
+//  Copyright © 2017年 liushuang.library. All rights reserved.
+//
+
+#ifndef AppPattern_pch
+#define AppPattern_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import "Masonry.h"
+#import "Api.h"
+#import "HttpManager.h"
+#import "YYModel.h"
+#import "ReactiveObjC.h"
+#import <JavaScriptCore/JavaScriptCore.h>
+#import "UITableViewCell+HYBMasonryAutoCellHeight.h"
+
+#endif /* AppPattern_pch */

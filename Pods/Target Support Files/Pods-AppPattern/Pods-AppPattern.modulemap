@@ -1,0 +1,6 @@
+framework module Pods_AppPattern {
+  umbrella header "Pods-AppPattern-umbrella.h"
+
+  export *
+  module * { export * }
+}
